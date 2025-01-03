@@ -1,6 +1,6 @@
 [submodule "Bhoomi_Android"]
 	path = Bhoomi_Android
-	url = https://github.com/aviraj0010/Bhoomi.git
+	url = https://github.com/aviraj0010/Bhoomi_Application.git
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/aviraj0010/Bhoomi_DashBoard.git
