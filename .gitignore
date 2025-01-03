@@ -1,0 +1,16 @@
+react-native-app/node_modules/
+react-native-app/.gradle/
+react-native-app/.idea/
+react-native-app/.vscode/
+react-native-app/.env
+react-native-app/android/build/
+react-native-app/ios/Pods/
+
+
+nextjs-website/node_modules/
+nextjs-website/.next/
+nextjs-website/.env.local
+
+
+.DS_Store
+*.log
